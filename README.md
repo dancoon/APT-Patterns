@@ -13,3 +13,8 @@ Pattern 2
 pattern 3
 
 ![image](https://user-images.githubusercontent.com/114615342/198863697-58a75d91-6553-4949-b75b-2e8a8bbfc13e.png)
+
+
+patter 4
+
+![image](https://user-images.githubusercontent.com/114615342/198863795-82562daa-312a-4e89-a0b4-ddb85dd53956.png)
