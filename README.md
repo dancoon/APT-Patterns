@@ -18,3 +18,10 @@ pattern 3
 patter 4
 
 ![image](https://user-images.githubusercontent.com/114615342/198863795-82562daa-312a-4e89-a0b4-ddb85dd53956.png)
+
+
+pattern 5
+
+![image](https://user-images.githubusercontent.com/114615342/198863860-b139bdf1-63f2-4ab3-918d-ea66f184f001.png)
+
+
