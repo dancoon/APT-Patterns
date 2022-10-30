@@ -2,7 +2,7 @@
 
 Pattern 1
 
-![image](https://user-images.githubusercontent.com/114615342/198863537-e7df48d8-52a4-480d-a530-d57900a9d06f.png)
+![image](https://user-images.githubusercontent.com/114615342/198863576-1d556dff-311c-4e67-b3b5-c23a7bf46748.png)
 
 
 Pattern 2
